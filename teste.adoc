@@ -1,0 +1,6 @@
+= Teste
+:page-layout: base
+
+Essa é uma página de teste
+
+// vim: set syntax=asciidoc:
